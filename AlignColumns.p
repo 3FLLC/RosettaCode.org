@@ -45,4 +45,5 @@ Begin
       End;
    End;
    Writeln();
+   StrList.Free;
 end.
